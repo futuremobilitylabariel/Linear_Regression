@@ -1,2 +1,3 @@
 # Linear_Regression
-Linear Regression of Das
+
+Wiki Page : https://github.com/futuremobilitylabariel/Linear_Regression/wiki
