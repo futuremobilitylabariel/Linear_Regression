@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "anlysislab",
-  "private_key_id": "ae811a79b83b8b9fd65e7c12c17b13d4afe1a4b2",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1vSXkb94GlICW\n09j0Lp6djNGSHBsyb7r1aLvyYn1oSnUMFSoi578bV8TUO7DedIYbB35dlM9de0t+\neCbhYcQpI2ht4kmh2iVlkD9o/xRBJ6v4VqiRBgQa4zFMPpCM2HgiRUNLHrkRgLvS\ndzJJtJqY/rFNns3+7FiRTuGj1zM6sS9+3MyZWJLSPbzTp+/J4Yd8UyUIOZShmkm4\nZduqJUdgxUjvEbXn6mAlCFhaKb3T9Pesalny0Ql0gLqrTy+4NSuf7nJXVJLNO52n\nLmzIr5GeY9f3P1laR8QsgCFkt/kbfYtyt781i7vI7qcct2xKbReiCFJCRAETZ2Lq\ndqDE4XqrAgMBAAECggEAGSi+7tQ7F7dwjcYfdL5iIEwhqb57rWHLr175FeG4nBAi\ntVzWC9BVToMPW+o03rb25xWvKA61HlXhP6LWjxZVF5+FPMu6Mc6HUCYbVn0UNWjj\n5RSUxW7gcUXJH1WnS+Lzzpq+vs7ZWVOfAiXqL6CcU63T/HuNkkrvKpPm/M2KlAc+\nJCBzqq9G4PYmKkkEPk9pb4UtgOvl68IwkL/KO7Crq9farBAPgzLRTFgxTHj0y2Zw\nDRawHSjAOK/lQDFs1k9vc/7MumB01uk94S3ebxo4/5Y/3Upco3TEHDlM+LFFAXZz\n+UbNJHcgPLb4ju1hoI4FL9nPJ1OC4DqdEzm0TuUFsQKBgQDsVyzyVLc945SOo5XV\nXLhrKUIbu99RGQr27ugHfTQeBctegwsBhjoIe+edVn34KQ953KjrJW181zvtKgVb\nCApPkFqPNTolsuseziqPj+X+CEK2MkHr3Cxmtr48cJ9XXfF/5m+rAVVFmVC3Stpa\nnwKafBHLct5yQDKkPuE+xmDULQKBgQDE2z2jNq7xyoiMjPugvNqjUvlX1OtK0rDy\nziWKHLhevtuPE+T4MphrZffFIn7CU/RZUAa8jYUIGysDt1BF01FQ7mzouXruKias\nypNFnV7bwEmXWgrmAGPzUZmuHpCZPGfLEjtx4pCo57l6WPKXkZRZzlAYbquRKjjA\nnMHYtnmZNwKBgAohPmrwmJ4NeBuZBV4MyFbHgO7hYZP/R8oHuWhAxJAY3XuikEEz\neJ9OeEH1KBcP43rsq0zQ4N19+DKVH3+kW5THcio7NM/S2GMMoSRgHZKC1iErDEpI\nuJp6cLL0fM/o1eYOgXDJ8Na32I7SpYNG13y5nqWiucgZ2lHR5COlqxbNAoGBAMEn\n4j3wnQ3wzbUjbI9WXy2cb75n1AuR2kAUWC9BaQLGQQcN3UBP3NCct9X9t+UTnZG4\n/TMrpVnD1pwJ1cD9zS8dE03zGRTx1Qr8pi7LcFUtQsg4eLMftPL9oU6A/R7ub2WJ\nWTyws4KYBJ1xA3AHT0ojLuIaTUvd4tvTtDzhJ0VXAoGBALtGRkLdQaUiTFUg/9Qy\nVJHTKw82oliXYbXAkgEuH2ErSzvzt7WkmLFzR0FIhiZR+RUIWUQvrRgrXf31SJa1\nUl9nNoO6g0AOmJvV8FnJNfFLbegoNrKy4yrx5qhpg8+AwgkvtlyDLhfN5ZyuXwRM\nFcMxwG61jsZvVC/uJM8J8iD8\n-----END PRIVATE KEY-----\n",
-  "client_email": "gabriel@anlysislab.iam.gserviceaccount.com",
-  "client_id": "106534128283811345729",
+  "project_id": "XXXXXXXXXXXX",
+  "private_key_id": "XXXXXXXXXXXXXXXX",
+  "private_key": "XXXXX",
+  "client_email": "XXX",
+  "client_id": "XXXXXXX",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gabriel%40anlysislab.iam.gserviceaccount.com"
+  "client_x509_cert_url": "XXXX"
 }
